@@ -1,3 +1,6 @@
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.txt)
+[![GitHub Release](https://img.shields.io/badge/release-v0.1-red.svg?style=flat-square)](https://github.com/jadedcore/MonkeyCake/releases/tag/v0.1-alpha)
+
 # MonkeyCake
 MailChimp API Component for CakePHP 2.x
 
